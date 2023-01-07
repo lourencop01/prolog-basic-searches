@@ -5,7 +5,7 @@ To run simply install SWI-Prolog, run it from the command terminal using **swipl
 The *dados.pl* file is an example of a database.
 
 <details>
-<summary>The projects blueprint</summary>
+<summary>The projects blueprint (portuguese)</summary>
 <br>
 
 Horários – pesquisas em Prolog
