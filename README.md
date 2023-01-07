@@ -8,28 +8,7 @@ The *dados.pl* file is an example of a database.
 <summary>The projects blueprint (portuguese)</summary>
 <br>
 
-Horários – pesquisas em Prolog
-
-**Conteúdo**
-
-**1 Estruturas de dados 2 2 O programa em Prolog 3**
-
-**3 Predicados a implementar 3**
-
-1. Qualidade dos dados . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-1. Pesquisas simples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
-1. Ocupações críticas de salas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
-1. And now for something completely different... . . . . . . . . . . . . . . . . . . . . 9
-
-**4 Entrega e avaliação 11**
-
-1. Condições de realização e prazos . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
-1. Cotação . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
-1. Cópias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
-
-**5 Recomendações 12**
-
-Pág. 12 de 13
+# Horários – pesquisas em Prolog
 
 Um belo dia, ouves dizer que a base de dados relativa à ocupação de salas do IST-Tagus foi atacada por um hacker. Na tentativa de ajudar, estudas as estruturas de dados em causa (Sec- ção 1), crias um programa em Prolog (primeiras linhas na Secção 2) e resolves o problema. Tornas-te um herói, mas, como sabes, com grandes poderes vêm grandes responsabilidades, e começam a chegar-te mais pedidos de ajuda (Secção 3). Claro está, dás o teu melhor! Sobre as condições de realização do projecto, sua avaliação e recomendações, vê as Secções 4 e 5.
 
