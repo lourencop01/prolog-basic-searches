@@ -7,7 +7,7 @@ The *dados.pl* file is an example of a database.
 <details>
 <summary>The projects blueprint?</summary>
 <br>
-Lógica para Programação![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.001.png)
+Lógica para Programação!
 
 Projecto 2022-2023
 
@@ -301,7 +301,7 @@ Resultados = [casosCriticos(segunda-feira,grandesAnfiteatros,89),
 
 casosCriticos(segunda-feira,grandesAnfiteatros,95), casosCriticos(segunda-feira,pequenosAnfiteatros,93), casosCriticos(sexta-feira,labsQuimica,89)].
 
-4. **And now for something completely different...![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.002.png)**
+4. **And now for something completely different...!**
 
 Depois de teres recebido inúmeros elogios e agradecimentos da Gestão do Edifício chegas a casa. Pensas que é desta que vais ver o "Wednesday/Enola Holmes2/Umbrella Academy/The Boys/Altered Carbon/Outro (riscar o que não interessa). No entanto, quando estás a abrir a porta da rua, aparece a tua vizinha do lado, Maria de seu nome:
 
@@ -313,11 +313,11 @@ Engoles a seco, lembrando-te que, quando vais de férias, esta senhora fica a to
 
 Entras em casa a pensas que o melhor é implementar algo genérico, não vá a vizinha vir pedir-te soluções sempre que dá um jantar. No entanto, decides assumir (Figura 1) que: a) a mesa de jantar é rectangular, com 8 lugares no total, um lugar em cada cabeceira e 3 em cada lado, estando as cabeceiras da mesa diferenciadas; b) serão exactamente 8 convidados.
 
-X1 X2 X3![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.003.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.003.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.004.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.005.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.006.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.007.png)
+X1 X2 X3!
 
-X4 X5 ![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.008.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.009.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.010.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.011.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.012.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.013.png)(c1) (c2)
+X4 X5 !(c1) (c2)
 
-X6 X7 X8![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.014.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.015.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.015.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.016.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.017.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.018.png)
+X6 X7 X8!
 
 Figura 1: Desenho da mesa
 
@@ -331,7 +331,7 @@ Assumes que as restrições possíveis são (exemplos relativos à Figura 1):
 - cab2(NomePessoa): é verdade se NomePessoa for a pessoa que fica na cabeceira 2 – X 5;
 - honra(NomePessoa1, NomePessoa2): é verdade se NomePessoa1 estiver numa das cabe-
 
-ceiras e NomePessoa2 ficar à sua direita – X 3 ou X 6, dependendo da cabeceira ocupada;![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.019.png)
+ceiras e NomePessoa2 ficar à sua direita – X 3 ou X 6, dependendo da cabeceira ocupada;!
 
 - lado(NomePessoa1, NomePessoa2): é verdade se NomePessoa1 e NomePessoa2 ficarem lado a lado na mesa[^5] – por exemplo, X 7 e X 8;
 - naoLado(NomePessoa1, NomePessoa2): é verdade se NomePessoa1 e NomePessoa2 não ficarem lado a lado na mesa – por exemplo, X 1 e X 3;
@@ -370,9 +370,9 @@ false.
 
 A Figura 2 ilustra a solução para a ceia da vizinha Maria.
 
-miguel pedrito guga L1 = [miguel, pedrito, guga] m(ca1ri)a ![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.020.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.021.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.022.png) j(oca2o) L2 = [maria, joao]![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.023.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.024.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.025.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.026.png)
+miguel pedrito guga L1 = [miguel, pedrito, guga] m(ca1ri)a !
 
-jorge ana manelito L3 = [jorge, ana, manelito]![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.027.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.028.png)![](Aspose.Words.14cef790-85ce-4039-83cb-28c48c42f180.029.png)
+jorge ana manelito L3 = [jorge, ana, manelito]!
 
 Figura 2: Solução para a ceia de Natal da vizinha Maria
 
@@ -444,13 +444,4 @@ Projectos muito semelhantes levarão à reprovação na disciplina e levantament
 - Todos os problemas são mais difíceis do que parecem;
 - Tudo demora mais tempo do que pensamos;
 - Se alguma coisa puder correr mal, vai correr mal, na pior das alturas possíveis.
-
-[^1]: Assume-se que todos os eventos ocorrem à hora ou à hora e meia. Assim, para facilitar os cálculos, usar-se-à 12.5 para indicar as 12h30 (por exemplo, ao somar 1h30 às 12h30, estaremos a somar 1.5 a 12.5, obtendo-se 14 (14h)).
-[^2]: Por uma questão de legibilidade, por vezes, um predicado é partido em duas linhas. Nota também que a base de conhecimento não está completa, pelo que é normal que faltem disciplinas (exemplo: cálculo II).
-[^3]: Nota que leic-t tem de levar plicas. Nota também que se copiar (copy&paste) os objectivos em Prolog a partir do pdf, vai dar um erro de sintaxe no Prolog.
-[^4]: Os tipos de sala possíveis são os primeiros argumentos do predicado sala, no ficheiro keywords.pl (exemplo: grandesAnfiteatros, labsElectro).
-[^5]: Consideras que quem está nas cabeceiras não está “ao lado” de ninguém.
-[^6]: Consideras que quem está nas cabeceiras não está à frente da pessoa que está na outra cabeceira.
-[^7]: Note que o limite de 10 submissões simultâneas no sistema Mooshak implica que, caso haja um número elevado de tentativas de submissão sobre o prazo de entrega, alguns alunos poderão ver-se impossibilitados de submeter o código dentro do prazo.
-[^8]: Note que, se efectuar uma submissão no Mooshak a menos de 15 minutos do prazo de entrega, ficaimpossibilitado de efectuar qualquer outra submissão posterior.
 </details>
