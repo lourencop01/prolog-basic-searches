@@ -5,11 +5,8 @@ To run simply install SWI-Prolog, run it from the command terminal using **swipl
 The *dados.pl* file is an example of a database.
 
 <details>
-<summary>The projects blueprint?</summary>
+<summary>The projects blueprint</summary>
 <br>
-Lógica para Programação!
-
-Projecto 2022-2023
 
 Horários – pesquisas em Prolog
 
@@ -380,68 +377,4 @@ Lembras-te também que com o Prolog consegues gerar e testar soluções. Tens é
 
 Quando acabas, vais comunicar a solução à tua vizinha que fica encantada (mais tarde leva-te umas filhoses de agradecimento). Regressas a casa e desligas o telemóvel, just in case....
 
-**4 Entrega e avaliação**
-
-1. **Condições de realização e prazos**
-
-O projecto é realizado individualmente. O código do projecto deve ser entregue obrigato- riamente por via electrónica até às **23h59 de dia 13 de janeiro 2023**, através do sistema Mooshak. Depois desta hora, não serão aceites projectos sob pretexto algum[^7]. A ter em conta:
-
-- Deverá ser submetido um ficheiro .pl contendo o código do seu projecto. O ficheiro de código deve conter em comentário, na primeira linha, o número e o nome do aluno;
-- Não devem ser utilizados caracteres acentuados ou qualquer caractere que não pertença à tabela ASCII, mesmo em comentários;
-- Não esquecer de remover/comentar as mensagens escritas no ecrã;
-- A avaliação da execução do código do projecto será feita automaticamente através do sistema Mooshak, usando vários testes configurados no sistema. O tempo de execução de cada teste está limitado, bem como a memória utilizada. Tipicamente, só poderá efec- tuar uma nova submissão 15 minutos depois da submissão anterior[^8]. Só são permitidas 10 submissões em simultâneo no sistema, pelo que uma submissão poderá ser recusada se este limite for excedido. Nesse caso tente mais tarde;
-- Os testes considerados para efeitos de avaliação podem incluir ou não os exemplos dis- ponibilizados, além de um conjunto de testes adicionais. De notar que a base de conhe- cimento usada nos testes é uma extensão da dada.
-
-Serão publicadas na página da cadeira as instruções necessárias para a submissão do código no Mooshak e a partir dessa altura será possível a submissão por via electrónica. Até ao prazo de entrega poderá efectuar o número de entregas que desejar (por favor, não usar o Mooshak para debug), sendo utilizada para efeitos de avaliação a última entrega efectuada.
-
-Pode ou não haver uma discussão oral do projecto e/ou uma demonstração do funcionamento do programa (será decidido caso a caso).
-
-2. **Cotação**
-
-Uma versão estendida do ficheiro dados.pl será usado na avaliação. A nota do projecto será baseada no seguinte:
-
-- Execução correcta – 16 valores distribuídos da seguinte forma:
-1. Qualidade dos dados (2.0 valores)
-1) eventosSemSalas: 0.5 valores;
-1) eventosSemSalasDiaSemana: 0.5 valores;
-1) eventosSemSalasPeriodo: 1.0 valores;
-2. Pesquisa simples (7.5 valores)
-1) organizaEventos: 1 valor
-1) eventosMenoresQue: 0.75 valores;
-1) eventosMenoresQueBool: 0.75 valores;
-1) procuraDisciplinas: 1 valor;
-1) organizaDisciplinas: 1.5 valores;
-1) horasCurso: 1.5 valores;
-1) evolucaoHorasCurso: 1 valor;
-3. Ocupações críticas das salas (4.5 valores)
-1) ocupaSlot: 1.5 valores;
-1) numHorasOcupadas: 1.0 valores;
-1) ocupacaoMax: 0.75 valores;
-1) percentagem: 0.25 valores;
-1) ocupacaoCritica: 1.0 valor;
-4. And now for something completely different... (2 valores)
-
-(a) ocupacaoMesa: 2.0 valores.
-
-- Estilo de programação e facilidade de leitura – 4 valores assim distribuídos:
-- Comentários (1.0 valor): deverão incluir comentários para o utilizador (descrição sumária do predicado); deve também incluir, quando se justifique, comentários para
-  - programador.
-- Boas práticas (3.0 valores):
-* Integração de conhecimento adquirido durante a UC (1.0 valor).
-* Implementação de predicados não excessivamente longos. O facto de usar um predicado recursivo, desde que bem feito, não é penalizado em relação ao uso de predicados funcionais; no entanto, uma má abstração procedimental e du- plicações de código serão penalizados (1.0 valor).
-* Escolha de nomes dos predicados auxiliares e das variáveis (1.0 valor).
-
-Presença de warnings serão penalizadas (-2 valores). Os predicados 4 e 8, caso não respeitem as indicações dadas na sua implementação, serão penalizados em 1 e 1.5 valores, respectiva- mente.
-
-3. **Cópias**
-
-Projectos muito semelhantes levarão à reprovação na disciplina e levantamento de processo disciplinar. O corpo docente da disciplina será o único juiz do que se considera copiar.
-
-**5 Recomendações**
-
-- Recomenda-se o SWI PROLOG, que vai ser usado para a avaliação do projecto.
-- Durante o desenvolvimento do programa não se esqueça da Lei de Murphy:
-- Todos os problemas são mais difíceis do que parecem;
-- Tudo demora mais tempo do que pensamos;
-- Se alguma coisa puder correr mal, vai correr mal, na pior das alturas possíveis.
 </details>
