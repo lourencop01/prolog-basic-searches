@@ -1,5 +1,5 @@
 # Prolog Searches
-University Project | Logic for Programming Course (FINAL GRADE 19/20) | Instituto Superior Técnico
+University Project | Logic for Programming Course (Grade 19/20) | Instituto Superior Técnico
 
 To run simply install SWI-Prolog, run it from the command terminal using **swipl** and then **[extensao].** to load the program.
 The *dados.pl* file is an example of a database.
